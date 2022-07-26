@@ -3,8 +3,8 @@
 
 ### List of the projects:
 # Exam App:  
-# Weather App:
+# Weather App: https://davidmicah123.github.io/weather-app/
 # Tic-Tac-Toe:
-# Music Player:
-# Todo List App:
+# Music Player: https://davidmicah123.github.io/DMD-Music-player/
+# Todo List App: https://davidmicah123.github.io/TODO-LIST-APP/
 # Flower World (shopify):
